@@ -2,7 +2,6 @@ import "./globals.css";
 import "../config/axiosConfig";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import { NextAuthProvider } from "./provider";
 
 const inter = Inter({ subsets: ["latin"] });
 
